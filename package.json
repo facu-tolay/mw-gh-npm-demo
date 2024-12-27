@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/facu-tolay/mw-gh-npm-demo#readme",
   "publishConfig": {
-  "@facu-tolay:registry": "https://npm.pkg.github.com"
+    "@facu-tolay:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@facu-tolay/mw-gh-npm-demo": "^1.0.0"
   }
 }
